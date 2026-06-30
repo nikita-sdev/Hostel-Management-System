@@ -1,4 +1,4 @@
-const BASE_URL= "http://localhost:3000";
+const BASE_URL= "https://hostel-management-system-dyi4.onrender.com";
 
 // accomodation request
 

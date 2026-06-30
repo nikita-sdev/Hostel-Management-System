@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://hostel-management-system-dyi4.onrender.com";
 
 export const sendOTP= async(email,setError)=>{
   const res= await fetch(`${BASE_URL}/api/auth/get-otp`, 
